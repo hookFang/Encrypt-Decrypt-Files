@@ -1,6 +1,5 @@
 #Import the cryptography library
 from cryptography.fernet import Fernet
-import os
 from os import path
 
 class modulesForSymmetricCryptography():
