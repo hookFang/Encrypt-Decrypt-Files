@@ -1,6 +1,6 @@
 # Encrypt-Decrypt-Files
 
-Simple pyhton script to encrypt your files.
+Simple python script to encrypt your files.
 All files are encrypted using Fernet -
 <h2>AES in Cipher Block Chaining(CBC) mode witha 128-bit key encryption </h2>
 
